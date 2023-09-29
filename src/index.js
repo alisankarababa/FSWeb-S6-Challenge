@@ -5,6 +5,8 @@ import { worker } from "./mocks/browser";
 
 import App from "./App";
 
+import 'bootstrap/dist/css/bootstrap.min.css';
+import "./reset.css"
 import "./index.css";
 import "./App.css";
 
